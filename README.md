@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wynoislive
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Ai/Ml
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
 - 😄 Pronouns:
