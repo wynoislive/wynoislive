@@ -2,9 +2,9 @@
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning Ai/Ml
 - 💞️ I’m looking to collaborate 
-- 📫 How to reach me 
-- 😄 Pronouns:
-- ⚡ Fun fact: 
+- 📫 How to reach me wynoislive1@gmail.com
+- 😄 Pronouns: Master
+- ⚡ Fun fact: There Is Noting Funny 
 
 <!---
 wynoislive/wynoislive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
